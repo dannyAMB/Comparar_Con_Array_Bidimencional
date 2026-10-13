@@ -5,8 +5,8 @@ import { listMajors } from "./index-operative.js";
 var CLIENT_ID = "";
 var API_KEY ="";
 
-   //  CLIENT_ID = "171546887029-1ile1im4n0cs69h05o4vq7il2t3g0m8d.apps.googleusercontent.com";
-  //   API_KEY ="AIzaSyCYuss-zQ2bsA7OSPksiEdm-I2ljQET_as";
+   //  CLIENT_ID =xxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com";
+  //   API_KEY ="xxxxxxxxxxxxxxxxxxxxxxxxx";
          // Discovery doc URL for APIs used by the quickstart
 
          
